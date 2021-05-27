@@ -7,7 +7,7 @@ const BookScreen = props =>{
 
     return(
         <View style={{ padding: 10 }}>
-            <Text>This is a Book Screen... and book id is {id}.</Text>
+            <Text>This is a Book Screen detail screen and book id is {id}.</Text>
         </View>
     );
 };
